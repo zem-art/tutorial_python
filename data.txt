@@ -1,0 +1,5 @@
+Ini Adalah Data Text yang Dibuat Pake Python
+Ini Baris Ke Dua
+Ini Baris Ke Ketiga
+Ini Baris Ke Ke Empat
+Baris Ini Adalah Baru

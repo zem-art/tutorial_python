@@ -1,0 +1,18 @@
+cara install python di linux 
+
+1. pertama kita download dulu di Homebrew
+	sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+
+2. install ini di teminal :
+	sudo apt-get install build-essential curl file git
+
+	(lalu  cek Versi brew nya dengan ini brew --version)
+
+3.  lalu install 
+	brew install pyenv
+
+4. lalu install 
+	pyenv install (versi python paling terbaru)
+
+5. lalu install
+	pyenv global (versi python yg tadi kita install)
