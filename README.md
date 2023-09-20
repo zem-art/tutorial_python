@@ -15,7 +15,7 @@ You can learn to use Python and see almost immediate gains in productivity and l
 
 * "I have the students learn Python in our undergraduate and graduate Semantic Web courses. Why? Because basically there's nothing else with the flexibility and as many web libraries," said Prof. James A. Hendler.
 
-# Main Fitures
+## Main Fitures
 
 * Web and Internet Development
 
